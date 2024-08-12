@@ -31,6 +31,3 @@
 9. Rename `three.txt` to `hello.txt`.
 10. Remove `four.txt`.
 11. Remove the `BAD` directory and all its contents.
-
-## Hint
-- For question *`7`*  refer to slide number `#28`
