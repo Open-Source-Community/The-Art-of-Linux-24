@@ -44,3 +44,5 @@ I love Git
 10. Go back to `main` branch. Bring the work you did on branch `intro` to main (DO NOT rebase).
 
 11. You just finished working on your release! Create a suitable tag titled `v1` for your release.
+
+12. After finishing all steps, upload all changes you made to the remote repository.
