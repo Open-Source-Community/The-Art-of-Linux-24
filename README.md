@@ -7,9 +7,5 @@ This repository houses all the resources for our Linux summer training program f
 | Title                | Content                                                                                              |
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
 | :label: Instructions | :pushpin: [GitHub Account & Repository Guide](./GitHub%20Account%20&%20Repository%20Guide/README.md) |
-| :label: Session 1: Introduction to Linux | :pushpin: [PDF](./Session%201/Session%201.pdf) <br> :pushpin: [Task](./Session%201/README.md)|
-
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-
-| :label: Session 2: Git and GitHub | :pushpin: [PDF](./Session%201/Session%201.pdf) <br>
-:pushpin: [Task](./Session%201/README.md)|
+| :label: Session 1: Introduction to Linux | :pushpin: [PDF](./Session%201/Session%201.pdf) <br> :pushpin: [Task](./Session%201/README.md) <br> :pushpin: [Task 1 solution](./Session%201/Solution.md) |
+| :label: Session 2: Git and GitHub | :pushpin: [PDF](./Session%201/Session%201.pdf) <br> :pushpin: [Task](./Session%201/README.md) |
