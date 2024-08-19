@@ -4,7 +4,7 @@
 
 2. Inside the `task-3` directory, create a file named `solution.txt`.
 
-3. In `solution.txt`, write the commands used to solve each step. Do not include the output of the command.
+3. In `solution.txt`, write the commands used to solve each step. **Do not include the output of the command.**
 
 4. Do not leave blank lines between commands.
 
@@ -21,7 +21,8 @@
 7. Don't paste output of commands unless specified in the task
 
 **Note:** 
-Ensure that the directory and file names are in lowercase. Names such as task-3, task-3, task-3, Solution.txt, SOLUTION.TXT, or SoluTION.txt are not acceptable.
+
+- Ensure that the directory and file names are in **lowercase**. Names such as TASK-3, Task-3, task_3, Solution.txt, SOLUTION.TXT, or SoluTION.txt are not acceptable.
 
 ---
 
@@ -34,7 +35,7 @@ Ensure that the directory and file names are in lowercase. Names such as task-3,
 
 3. Navigate to the `reports` directory and create two files: `report1.md` and `report2.md`.
 
-4. Navigate to the `logs` directory and create two files: `system.log` , `error.log`, `file1.tmp` and `file2.tmp`.
+4. Navigate to the `logs` directory and create four files: `system.log`, `error.log`, `file1.pdf`, and `file2.pdf`.
 
 5. In the `data` directory, create a text file named `data.csv` and another named `info.txt`.
 
@@ -44,30 +45,36 @@ Ensure that the directory and file names are in lowercase. Names such as task-3,
 
 8. Move `logs_backup.tar` to the `project_files` directory.
 
-9. Find and list all files with the `.md` extension starting from the home directory `(~)`.
+9. Extract the `logs_backup.tar` archive back into the `logs` directory.
 
-10. Search for all files ending with `.log` in the `project_files` directory.
+10. Find and list all files with the `.md` extension starting from the home directory `(~)`.
 
-11. Delete all files in the `logs` directory ending with `.tmp`.
+11. Search for all files ending with `.log` in the `project_files` directory.
 
-12. Create a symbolic link for `data.csv` named `link_data.csv` in the `project_files` directory.
+12. Search for all files named `file1.pdf` in the `project_files` directory.
 
-13. Modify `link_data.csv` and verify if the changes are reflected in `data.csv`.
+13. Search for all files with the `.pdf` extension in the `project_files` directory, regardless of case.
 
-14. Delete the symbolic link `link_data.csv`.
+14. Search for all regular files (not directories) in the `logs` directory.
 
-15. Create a file named `summary.txt` in the `project_files` directory and redirect the output of `echo "Summary Start"` to it.
+15. Create a symbolic link for `data.csv` named `link_data.csv` in the `project_files` directory.
 
-16. Append the current date and time to `summary.txt`.
+16. Modify `link_data.csv` and verify if the changes are reflected in `data.csv`.
 
-17. Use a pipeline to count the number of lines in `summary.txt` and display it, appending the result to `summary.txt` with the `tee` command.
+17. Delete the symbolic link `link_data.csv`.
 
-18. Count the number of words in `report1.md` and display it.
+18. Create a file named `summary.txt` in the `project_files` directory and redirect the output of `echo "Summary Start"` to it.
 
-19. Count the number of characters in `system.log` and append the result to `summary.txt`.
+19. Append the current date and time to `summary.txt`.
 
-20. Count the total number of files and directories in `project_files` and append the result to `summary.txt`.
+20. Use a pipeline to count the number of lines in `summary.txt` and display it, appending the result to `summary.txt` with the `tee` command.
 
-21. Display the contents of `summary.txt`.
+21. Count the number of words in `report1.md` and display it.
+
+22. Count the number of characters in `system.log` and append the result to `summary.txt`.
+
+23. Count the total number of files and directories in `project_files` and append the result to `summary.txt`.
+
+24. Display the contents of `summary.txt`.
 
 ***Good Luck!😊***
