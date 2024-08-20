@@ -41,7 +41,7 @@
 
 6. Use the `nano` text editor to add some random content to `report1.md`, `system.log`, and `data.csv`.
 
-7. Compress all files in the `logs` directory into a **tar archive** named `logs_backup.tar`.
+7. Archive all files in the `logs` directory into a **tar archive** named `logs_backup.tar`.
 
 8. Move `logs_backup.tar` to the `project_files` directory.
 
